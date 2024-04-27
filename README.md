@@ -2,7 +2,7 @@
 The simplest text encryptor with character displacement (replacement).
 ### Usage:
 
-```$ python step.py```
+```$ python ste.py```
 
 - enter your text
 
